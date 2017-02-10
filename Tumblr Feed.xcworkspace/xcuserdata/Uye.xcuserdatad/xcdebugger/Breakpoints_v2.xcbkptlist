@@ -2,4 +2,85 @@
 <Bucket
    type = "0"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tumblr Feed/PhotosViewController.swift"
+            timestampString = "508399476.006058"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "245"
+            endingLineNumber = "245"
+            landmarkName = "InfiniteScrollActivityView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tumblr_Feed.PhotosViewController.InfiniteScrollActivityView.activityIndicatorView.setter : __ObjC.UIActivityIndicatorView"
+                  moduleName = "Tumblr Feed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Uye/Desktop/CodePath/Tumblr%20Feed/Tumblr%20Feed/PhotosViewController.swift"
+                  timestampString = "508396538.273496"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "228"
+                  endingLineNumber = "228"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tumblr_Feed.PhotosViewController.InfiniteScrollActivityView.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Tumblr_Feed.PhotosViewController.InfiniteScrollActivityView&gt;"
+                  moduleName = "Tumblr Feed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Uye/Desktop/CodePath/Tumblr%20Feed/Tumblr%20Feed/PhotosViewController.swift"
+                  timestampString = "508396538.275856"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "228"
+                  endingLineNumber = "228"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tumblr_Feed.PhotosViewController.InfiniteScrollActivityView.init (frame : __C.CGRect) -&gt; Tumblr_Feed.PhotosViewController.InfiniteScrollActivityView"
+                  moduleName = "Tumblr Feed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Uye/Desktop/CodePath/Tumblr%20Feed/Tumblr%20Feed/PhotosViewController.swift"
+                  timestampString = "508396538.278225"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "228"
+                  endingLineNumber = "228"
+                  offsetFromSymbolStart = "54">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tumblr Feed/PhotosViewController.swift"
+            timestampString = "508399476.006058"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "210"
+            endingLineNumber = "210"
+            landmarkName = "loadMoreData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
